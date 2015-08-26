@@ -1,0 +1,23 @@
+{
+  "name": "phaser-coding-tips",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashelley/phaser-coding-tips.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashelley/phaser-coding-tips/issues"
+  },
+  "homepage": "https://github.com/ashelley/phaser-coding-tips#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-webserver": "^0.9.1"
+  }
+}
